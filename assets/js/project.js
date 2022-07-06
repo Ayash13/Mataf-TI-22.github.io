@@ -29,6 +29,14 @@ const projects = [
     Previewlink: "https://www.instagram.com/ar/3168358633418898/?ch=MWU2NjlkMTg0MzcwMjdiMWE4OTQ0ODg1MWM2NmFmYjI%3D",
     Githublink: "https://www.instagram.com/ar/3168358633418898/?ch=MWU2NjlkMTg0MzcwMjdiMWE4OTQ0ODg1MWM2NmFmYjI%3D",
   },
+  {
+    title: "Gundam",
+    cardImage: "assets/images/AR-page/gundam.jpg",
+    description: "A chess engine for a popular game dev engine.",
+    tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
+    Previewlink: "https://www.instagram.com/ar/333824632136070/?ch=YWQzN2NmMWJmMjkyMmVmNjNmOGQ2MDJmZDllMzNlMzE%3D",
+    Githublink: "https://www.instagram.com/ar/333824632136070/?ch=YWQzN2NmMWJmMjkyMmVmNjNmOGQ2MDJmZDllMzNlMzE%3D",
+  },
 ];
 
 // function for rendering project cards data
