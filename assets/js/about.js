@@ -1,5 +1,7 @@
+
 document.addEventListener("DOMContentLoaded", () => {
   /* dynamic load */
+
   const travelSummary = document.querySelector(".main");
 
   // json variable for injecting html into DOM
@@ -7,17 +9,17 @@ document.addEventListener("DOMContentLoaded", () => {
     {
       day: "MATAF TI 2022",
       description: "",
-      background: "assets/images/About/about.svg"
+      background: "assets/images/About/Mataf.png"
     },
     {
       day: "PRODI TI",
       description: "",
-      background_image: "assets/images/travel/trip1/qutub_minar.jpg"
+      background_image: "assets/images/About/Prodi.png"
     },
     {
       day: "KMTI",
       description: "",
-      background_image: "assets/images/travel/trip1/lotus_temple.jpg"
+      background_image: "assets/images/About/KMTI.png"
     }
     
   ];
