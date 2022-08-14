@@ -9,17 +9,17 @@ document.addEventListener("DOMContentLoaded", () => {
     {
       day: "MATAF TI 2022",
       description: "",
-      background: "assets/images/About/Mataf.png"
+      background: ""
     },
     {
       day: "PRODI TI",
       description: "",
-      background_image: "assets/images/About/Prodi.png"
+      background_image: ""
     },
     {
       day: "KMTI",
       description: "",
-      background_image: "assets/images/About/KMTI.png"
+      background_image: ""
     }
     
   ];
