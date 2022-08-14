@@ -22,7 +22,6 @@ body {
 .cont__inner:hover .el__bg:after {
     opacity: 1;
 }
-/* Buat ngatur kotak */
 .el {
     position: absolute;
     left: 0;
@@ -258,7 +257,7 @@ body {
     transition: transform 0.95s, opacity 0.95s;
 }
 .el:nth-child(1) .el__inner {
-    transition-delay: 0s; 
+    transition-delay: 1s; 
     background: url('../images/About/Mataf.png');
     background-repeat: no-repeat; 
     background-position: 50% 50%;
@@ -271,7 +270,7 @@ body {
     
 }
 .el:nth-child(1) .el__bg:before {
-    transition-delay: 0.2s;
+    transition-delay: 1s;
     
     
 }
@@ -285,7 +284,7 @@ body {
     transition: transform 0.95s, opacity 0.95s;
 }
 .el:nth-child(2) .el__inner {
-    transition-delay: 0.1s;
+    transition-delay: 1s;
     background: url('../images/About/Prodi.png');
     background-repeat: no-repeat; 
     background-position: 50% 50%;
@@ -296,7 +295,7 @@ body {
    
 }
 .el:nth-child(2) .el__bg:before {
-    transition-delay: 0.2s;
+    transition-delay: 1s;
 }
 .el:nth-child(3) {
     transform: translate3d(210.4166666667%, 0, 0);
@@ -308,7 +307,7 @@ body {
     transition: transform 0.95s, opacity 0.95s;
 }
 .el:nth-child(3) .el__inner {
-    transition-delay: 0.2s;
+    transition-delay: 1s;
     background: url('../images/About/KMTI.png');
     background-repeat: no-repeat; 
     background-position: 50% 50%;
@@ -320,7 +319,7 @@ body {
     
 }
 .el:nth-child(3) .el__bg:before {
-    transition-delay: 0.2s;
+    transition-delay: 1s;
     
     
 }
@@ -447,42 +446,5 @@ body {
     }
 }
 /*hero section ends*/
-@media screen and (max-width: 1060px) {
-    #primary {
-      width: 67%;
-    }
-    #secondary {
-      width: 30%; margin-left: 3%;
-    }
-}
-@media screen and (max-width: 768px) {
-    #primary {
-      width: 100%;
-    }
-    #secondary {
-      width: 100%; margin: 0%; border: none;
-    }
-}
-
-.responsive{
-    padding-top: 60%; /* 3:2 Aspect Ratio */
-}
-.contener {
-    position: relative;
-    width: 100%;
-    overflow: hidden;
-    padding-top: 60%; /* 3:2 Aspect Ratio */
-}
-
-.responsive-iframe {
- position: absolute;
- top: 0;
- left: 0;
- bottom: 0;
- right: 0;
- width: 100%;
- height: 100%;
- border: none;
- }
 
 
