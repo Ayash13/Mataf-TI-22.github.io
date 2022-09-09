@@ -6,28 +6,12 @@ const projectcards = document.querySelector(".projectcards");
 // Array of object for projects
 const projects = [
   {
-    title: "Environment",
-    cardImage: "assets/images/AR-page/Environment.png",
+    title: "AR Logo MATAF TI",
+    cardImage: "assets/images/AR-page/Logo.jpg",
     description: "Click on the image to see the project",
     tagimg: "",
-    Previewlink: "https://www.instagram.com/ar/1115521289367795/?ch=OTk3YzhjMjA0ODZkMTc5YTA3NGNkNzAyOGY1MWVjNTI%3D",
-    Githublink: "https://www.instagram.com/ar/1115521289367795/?ch=OTk3YzhjMjA0ODZkMTc5YTA3NGNkNzAyOGY1MWVjNTI%3D",
-  },
-  {
-    title: "Meteor",
-    cardImage: "assets/images/AR-page/Meteor.png",
-    description: "A chess engine for a popular game dev engine.",
-    tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
-    Previewlink: "https://www.instagram.com/ar/424776696218833/?ch=ZGQxOGNhNTBmYzY1OTNkNjQ2NDQyMTRkZjAzMTYwZDU%3D",
-    Githublink: "https://www.instagram.com/ar/424776696218833/?ch=ZGQxOGNhNTBmYzY1OTNkNjQ2NDQyMTRkZjAzMTYwZDU%3D",
-  },
-  {
-    title: "Riding a rocket",
-    cardImage: "assets/images/AR-page/man.png",
-    description: "A chess engine for a popular game dev engine.",
-    tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
-    Previewlink: "https://www.instagram.com/ar/3168358633418898/?ch=MWU2NjlkMTg0MzcwMjdiMWE4OTQ0ODg1MWM2NmFmYjI%3D",
-    Githublink: "https://www.instagram.com/ar/3168358633418898/?ch=MWU2NjlkMTg0MzcwMjdiMWE4OTQ0ODg1MWM2NmFmYjI%3D",
+    Previewlink: "https://www.instagram.com/ar/478103523916690/",
+    Githublink: "https://www.instagram.com/ar/478103523916690/",
   },
   {
     title: "Gundam",
