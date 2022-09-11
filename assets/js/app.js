@@ -26,13 +26,14 @@ let header = $(`
    <li class="nav-item nav-item-hover"><a class="nav-link" href="index.html">Home</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="about.html">About</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="logo.html">Logo</a></li>
+   <li class="nav-item nav-item-hover"><a class="nav-link" href="education.html">Speaker</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="project.html">Augmented Reality</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="support.html">Our Sponsor</a></li>
    
    <!--<li class="nav-item nav-item-hover"><a class="nav-link" href="experience.html">Experience</a></li>-->
    
    <!--<li class="nav-item nav-item-hover"><a class="nav-link" href="research.html">Research</a></li>-->
-   <!--<li class="nav-item nav-item-hover"><a class="nav-link" href="education.html">Education</a></li>-->
+   
    
    
    <li class="nav-item nav-item-hover"><a class="nav-link" href="https://myklass-eng.umy.ac.id" target="_blank">MyKlass</a></li>
